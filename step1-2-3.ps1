@@ -11,7 +11,7 @@
     Cédric Peston, 06/2018
 #>
 
-﻿# Voir les GPO pour l'installation
+# Voir les GPO pour l'installation
 
 Param(
 [string] $Path ="C:\adScript",
