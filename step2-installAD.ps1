@@ -13,7 +13,7 @@
 Param(
 [string] $Path ="C:\adScript",
 [string] $domainName = "bluesky.org",
-[string] $adminPasswd = "VitryGTR2021"
+[string] $adminPasswd = "VitryGTR94"
 )
 
 # Supprime la tache planifier

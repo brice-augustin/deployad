@@ -21,7 +21,7 @@ Param(
 [string] $nameServer = "DC-1",
 [string] $domainName = "bluesky.org",
 # Mot de passe du mode rescue
-[string] $adminPasswd = "VitryGTR2021"
+[string] $adminPasswd = "VitryGTR94"
 )
 
 # Crée un répertoire et copie les scripts a l'intérieur pour les taches planifiés

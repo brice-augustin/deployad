@@ -20,7 +20,7 @@ Param(
 [int] $lenSubMask = 24,
 [string] $nameServer = "DC-1",
 [string] $domainName = "bluesky.org",
-[string] $adminPasswd = "VitryGTR2021"
+[string] $adminPasswd = "VitryGTR94"
 )
 
 # Configure une interface en adressage statique

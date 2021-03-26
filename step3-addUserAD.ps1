@@ -27,7 +27,7 @@ Do{
 
 $server = (Get-ADDomain).InfrastructureMaster
 $path = (Get-ADDomain).DistinguishedName
-$passwd = "VitryGTR2021"
+$passwd = "VitryGTR94"
 New-ADOrganizationalUnit -Name:"Utilisateurs" -Path:$Path -Server:$server -ProtectedFromAccidentalDeletion:$false
 New-ADOrganizationalUnit -Name:"Ordinateurs" -Path:$Path -Server:$server -ProtectedFromAccidentalDeletion:$false
 
